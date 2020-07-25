@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "382251005076",
+    "firebase_url": "https://adios-unite.firebaseio.com",
+    "project_id": "adios-unite",
+    "storage_bucket": "adios-unite.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382251005076:android:6dcffc9dbce9c5f4a13081",
+        "android_client_info": {
+          "package_name": "xyz.indovators.adios_unite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "382251005076-dfrs4qjuaqvebmnaf99ijd7q1elg00bn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "xyz.indovators.adios_unite",
+            "certificate_hash": "daa00f20cc922ad1035db577a3f767da367bd293"
+          }
+        },
+        {
+          "client_id": "382251005076-7ndm7hgo4khcf3i3aeb398ou8bue5g0l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwLKe_6-f_IjC_wAeiF5ej6Mwp49dAFVM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "382251005076-7ndm7hgo4khcf3i3aeb398ou8bue5g0l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
