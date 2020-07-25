@@ -1,6 +1,6 @@
 # adios_unite
 
-A new Flutter project.
+Download the beta version from : [Play Store](https://play.google.com/store/apps/details?id=xyz.indovators.adios_unite)
 
 ## Getting Started
 
